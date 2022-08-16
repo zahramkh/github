@@ -1,0 +1,35 @@
+body{
+    background-color: lightgray;
+    font-family: sans-serif;
+}
+.asli{
+    box-sizing: border-box;
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    margin-top: 80px;
+    padding-top: 10px;
+    text-align: center;
+}
+.img {
+    background-color: darkgray;
+    display: block;
+    text-align: center;
+
+}
+.logo{
+    width: 150px;
+    border:5px dotted gray;
+    border-radius: 50%;
+
+}
+
+.class matn{   
+    font-size: 70px;   
+}
+
+.img img{
+    width: 60px;
+    margin: 20px;
+    
+}
